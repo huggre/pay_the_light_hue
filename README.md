@@ -79,8 +79,6 @@ Notice that in the phue* **set_light()** *function, the first augment is a refer
 *Important!*
 *Before we can have our Python code interact with the Hue Bridge, we first need to peer your computer with the Bridge. You do this by pressing the large button on top of the Bridge followed by running the following Python code on your computer within a few seconds: (This only needs to be done once)*
 
-<iframe src="https://medium.com/media/5f41b6919feac5e0ab98d1f39ae393c3" allowfullscreen="" frameborder="0" height="105" width="680" title="peer_bridge.py" class="dk t u gt ak" scrolling="auto" style="box-sizing: inherit; top: 0px; left: 0px; width: 680px; position: absolute; height: 105px;"></iframe>
-
 And here is the Python script:
 
 ```python
