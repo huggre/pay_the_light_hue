@@ -207,6 +207,7 @@ If you take a look at the Python script for this tutorial you will notice that t
 
 If you like this tutorial and want me to continue making others, feel free to make a small donation to the IOTA address below.
 
-![img](https://miro.medium.com/max/400/0*WR-1l5LYO9h3ZdiZ.png)
+![img](https://miro.medium.com/max/382/1*j2ENIzmDzXcGSgAdY4w-Jw.png)
 
-> *GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ*
+NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ
+
